@@ -1,7 +1,22 @@
 <html>
     <head>
+        <script>
+            function sendToApp(message){
+                console.log("sendToApp : " + message)
+                message = encodeURI(message)                
+                location.href = "myoffice://" + message
+            }
+        </script>
     </head>
     <body>
         <h3>index</h3>
+        <div>
+            <br/>
+            <a href="myoffice://XD DD">hyperlink to app</a>
+            <br/>
+            <a href="javascript:sendToApp('test')">call js to app</a>
+            <input type="button" value="button" onclick="sendToApp('test')" />
+            <input type="button" value="button" onclick="sendToApp('from button')" />
+        </div>
     </body>
 </html>
