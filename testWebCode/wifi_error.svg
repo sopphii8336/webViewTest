@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>phonegap-web-template/index.html at master · sopphii8336/phonegap-web-template</title>
+  <title>phonegap-web-template/wifi_error.svg at master · sopphii8336/phonegap-web-template</title>
     <meta name="description" content="GitHub is where people build software. More than 28 million people use GitHub to discover, fork, and contribute to over 85 million projects.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars0.githubusercontent.com/u/40201488?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="sopphii8336/phonegap-web-template" /><meta property="og:url" content="https://github.com/sopphii8336/phonegap-web-template" /><meta property="og:description" content="phonegap-web-template - A website template for Adobe PhoneGap Build" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjkyMDgyMzg5OjM2YmI1NDQ3MWQ1MDM5NWQ4NTNjZjhiZWM2ZGU1MGZhNjMyNWE0ZDM2YjhjZTY3MzI3NzZjMDBhYTk4YmUzNzQ=--058c7777858ee179958f0d9c2a069c80c270bf30">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjkyMDgyMzg5OjU2ZDVjNDdiYmQ2ZGY5YTE5YzFhMzgyNDk3NWQzYzgwNGI3ZDZkYjIxMDNkM2YzYmFjN2I3MGYzNDY3YjUxMjM=--0be9fcb3f19cac5a893f4541d86df6e281f5f7ea">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="C352:2C10:3123798:5810996:5B3B9093" data-pjax-transient>
+  <meta name="request-id" content="C352:2C10:3125140:5814C24:5B3B90C1" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C352:2C10:3123798:5810996:5B3B9093" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="40201488" /><meta name="octolytics-actor-login" content="sopphii8336" /><meta name="octolytics-actor-hash" content="fe51bd95c9f1fd7acde5a87d8bc5579fead8151033da569347e4b1ec698e0b45" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C352:2C10:3125140:5814C24:5B3B90C1" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="40201488" /><meta name="octolytics-actor-login" content="sopphii8336" /><meta name="octolytics-actor-hash" content="fe51bd95c9f1fd7acde5a87d8bc5579fead8151033da569347e4b1ec698e0b45" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -67,7 +67,7 @@
     <meta name="user-login" content="sopphii8336">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YjFjOTNmMDJhZDg1NWI5NzQ3ZGRkYmI5MTMwMWZiMmFhOTQwMmUwYzBiZmU1NzZjOWNiZDA4ZGYwMWZlNjA3MHx7InJlbW90ZV9hZGRyZXNzIjoiMTE0LjQyLjUyLjQzIiwicmVxdWVzdF9pZCI6IkMzNTI6MkMxMDozMTIzNzk4OjU4MTA5OTY6NUIzQjkwOTMiLCJ0aW1lc3RhbXAiOjE1MzA2MzAzMDYsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="ZjVjZTRiZTE4M2YwODcxOGY0NzFkMDU1NDgzNzZiMTRmMDI1OTkwNDI4MTMzYzFjNzE0OGEwOTI1OWVkMDgyNXx7InJlbW90ZV9hZGRyZXNzIjoiMTE0LjQyLjUyLjQzIiwicmVxdWVzdF9pZCI6IkMzNTI6MkMxMDozMTI1MTQwOjU4MTRDMjQ6NUIzQjkwQzEiLCJ0aW1lc3RhbXAiOjE1MzA2MzAzNDEsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SEARCH,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
 
@@ -84,7 +84,7 @@
   <meta name="octolytics-dimension-user_id" content="40201488" /><meta name="octolytics-dimension-user_login" content="sopphii8336" /><meta name="octolytics-dimension-repository_id" content="137056996" /><meta name="octolytics-dimension-repository_nwo" content="sopphii8336/phonegap-web-template" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="108377426" /><meta name="octolytics-dimension-repository_parent_nwo" content="pulipulichen/phonegap-web-template" /><meta name="octolytics-dimension-repository_network_root_id" content="108377426" /><meta name="octolytics-dimension-repository_network_root_nwo" content="pulipulichen/phonegap-web-template" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
 
 
-    <link rel="canonical" href="https://github.com/sopphii8336/phonegap-web-template/blob/master/www/index.html" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/sopphii8336/phonegap-web-template/blob/master/www/wifi_error.svg" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -153,7 +153,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=YtKp7yTOX/MypbWFFf1S3cwFeGhd+KY7U6t9CwRwjPAKmXA7gZxaqebJBcW4+VgdOzlWQ2UIlcYFsxWq+rtTJA=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=s43CP5yFIlXJopPWS0Av3j67njaGrNX257crahTUIVjbxhvrOdcnDx3OI5bmRCUeyYewHb5c5guxr0PL6h/+jA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -310,7 +310,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gLSkzbpGmtwIiZGLhwOMS0KTLPWT9+bakk1UEyF/hbuz/DJOF7oI7G9dUNcZlT/hMQv6yxdQa5ItkKdimVFjCQ==" />
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7m7C0wkkaB1EwhXXdyEKrjUSL9DrgEysTUx5vLnBab7dJlRQpNj6LSMW1Ivpt7kERor57m8nweTykYrNAe+PDA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -322,7 +322,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UsA/2LyHdY+pJvlasH1sqgCqXsWia5dan9OCJhvHZEFhiKlbEXvnv87yOAYu698AczKI+ybMGhIgDnFXo+mC8w==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KYHCrjfZcchF3XdYuM0QByTQWjE99P92NLgewHpSbd4ayVQtmiXj+CIJtgQmW6OtV0iMD7lTcj6LZe2xwnyLbA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -358,7 +358,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2fGf3bgt1bDbh82RqifxtjSRQB0nzpM1BlIyhMVINOoFsYTEZAx06/mF/pS9ppE+l0ohr0vJgTtTFuPF3rduhw==" />      <input type="hidden" name="repository_id" id="repository_id" value="137056996" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wYWU/WH2pl47ibA5QvCWhRXpBlVwsPpqthczgbH5k8wdxY/kvdcHBRmLgzxVcfYNtjJn5xy36GTjU+LAqgbJoQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="137056996" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/sopphii8336/phonegap-web-template/subscription"
@@ -438,7 +438,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/sopphii8336/phonegap-web-template/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="AIrEQLWHYC8R0u+gebJeifQcT/ywWcQG+gb4qmiWCNjz+s366PzK0tnCv0aNSjYwzrgAYxH3o/wID8Yr4q4TXQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/sopphii8336/phonegap-web-template/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2Es7YnG5j3l9iTRKYXYIB3Je3F1uG8xrAm/OpPnQll8rOzLYLMIlhLWZZKyVjmC+SPqTws+1q5HwZvAlc+iN2g==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -453,7 +453,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/sopphii8336/phonegap-web-template/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3eKL/kfryN791i04OLrttIJt5krz7qBXVb4Jg03BtLSEdI23XI2OyeFSht0eubTzeEvGsBrXCB2BFpMDVbdPIQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/sopphii8336/phonegap-web-template/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/S5E+1p4H3l1WS8rJNgYaBbOJCvl6RLL+FBI1m5MzfGkuEKyQR5ZbmndhM4C20Ev7OgE0QzQuoEs+NJWdjo2ZA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -472,7 +472,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/sopphii8336/phonegap-web-template/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+zxFB38zEqkkeM4SqT59N3G+6afO1ofkEmFvEDoZUi+vQq8hcCWayTUmZEP0WpaOvuk2Vew6R0cVT1eJ/DrgCA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/sopphii8336/phonegap-web-template/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="e5/XG9JVdaoxmW6zE0VjX5ulww488+8Hffn3V5UZgvIv4T093UP9yiDHxOJOIYjmVPIc/B4fL6R618/OUzow1Q==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -552,9 +552,9 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sopphii8336/phonegap-web-template/blob/ca43fee9411ee060f7e558ec7e50652a5e84ecf3/www/index.html">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sopphii8336/phonegap-web-template/blob/ca43fee9411ee060f7e558ec7e50652a5e84ecf3/www/wifi_error.svg">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:383ecf4f280476693ddacdfb7b4af563 -->
+  <!-- blob contrib key: blob_contributors:v21:0da593c5552ce142a027928d34ddab81 -->
 
   
 
@@ -598,7 +598,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/sopphii8336/phonegap-web-template/blob/master/www/index.html"
+               href="/sopphii8336/phonegap-web-template/blob/master/www/wifi_error.svg"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -609,7 +609,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" action="/sopphii8336/phonegap-web-template/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="naqqAT790LSYIqkOrGR0774r8Kk3ZB6ONfdj3wcNeYcEmZe5V96QwSfTrFJnZlj13YjFecAaYRxIzNsxIpa6pw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" action="/sopphii8336/phonegap-web-template/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SoD6Yb0a8I5bD1RgWzTG9RLMq3FuCa87pXf/4eL7JYzTs8fZ1Dmw++T+UTyQNurvcW+eoZl30KnYTEcPx2DmrA==" />
           <svg class="octicon octicon-git-branch select-menu-item-icon" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -617,7 +617,7 @@
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
             <input type="hidden" name="branch" id="branch" value="master">
-            <input type="hidden" name="path" id="path" value="www/index.html">
+            <input type="hidden" name="path" id="path" value="www/wifi_error.svg">
 </form>
       </div>
 
@@ -646,12 +646,12 @@
       </clipboard-copy>
     </div>
     <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/sopphii8336/phonegap-web-template"><span>phonegap-web-template</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/sopphii8336/phonegap-web-template/tree/master/www"><span>www</span></a></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/sopphii8336/phonegap-web-template"><span>phonegap-web-template</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/sopphii8336/phonegap-web-template/tree/master/www"><span>www</span></a></span><span class="separator">/</span><strong class="final-path">wifi_error.svg</strong>
     </div>
   </div>
 
 
-  <include-fragment src="/sopphii8336/phonegap-web-template/contributors/master/www/index.html" class="commit-tease commit-loader">
+  <include-fragment src="/sopphii8336/phonegap-web-template/contributors/master/www/wifi_error.svg" class="commit-tease commit-loader">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -666,11 +666,21 @@
   <div class="file">
     <div class="file-header">
   <div class="file-actions">
+      <div class="BtnGroup">
+        <a class="btn btn-sm BtnGroup-item tooltipped tooltipped tooltipped-n source "
+          href="/sopphii8336/phonegap-web-template/blob/master/www/wifi_error.svg?short_path=db4313e" aria-label="Display the source blob">
+          <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+        </a>
+        <a class="btn btn-sm BtnGroup-item tooltipped tooltipped-n rendered selected"
+          href="/sopphii8336/phonegap-web-template/blob/master/www/wifi_error.svg" aria-label="Display the rendered blob">
+          <svg class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"/></svg>
+        </a>
+      </div>
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/sopphii8336/phonegap-web-template/raw/master/www/index.html">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/sopphii8336/phonegap-web-template/blame/master/www/index.html">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/sopphii8336/phonegap-web-template/commits/master/www/index.html">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/sopphii8336/phonegap-web-template/raw/master/www/wifi_error.svg">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/sopphii8336/phonegap-web-template/blame/master/www/wifi_error.svg">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/sopphii8336/phonegap-web-template/commits/master/www/wifi_error.svg">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -680,13 +690,13 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/sopphii8336/phonegap-web-template/edit/master/www/index.html" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1i8CkJYrRADiA9CElCUT3ExX0rWG6Qiu8esFTbqQ2S+fPTe05kDfLk3KZkHKnxDiivDSbKaD372A0yV1LXnEhQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/sopphii8336/phonegap-web-template/edit/master/www/wifi_error.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1WTLZYRPjIfUXrlyyv3+x44n7Nf/MdUCXoE0KUIeNfn/ANEqfshbjcmLyMHJZXBfpckpVT07A1qDdIYH3DnTNg==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/sopphii8336/phonegap-web-template/delete/master/www/index.html" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="92ICJq2PkVrT8di7NtolfxnBJ5jdmMnj2/0HG1rsmE83nkJ5z8PQXn5jhO4cUKbQz8dAvKZztoYPPDn6d4KicQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/sopphii8336/phonegap-web-template/delete/master/www/wifi_error.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jbUExub8wlazqARtZYHlFX2MPwROrZiUEDqH8u92HM/RLvoCtruZj8UbIAft70948F3Al7cH8IgTaRrqZqvbEw==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -694,252 +704,26 @@
 </form>  </div>
 
   <div class="file-info">
-      57 lines (55 sloc)
+      17 lines (16 sloc)
       <span class="file-info-divider"></span>
-    2.2 KB
+    2.82 KB
   </div>
 </div>
 
     
 
-  <div itemprop="text" class="blob-wrapper data type-html">
-      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
-      <tr>
-        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">&lt;!DOCTYPE html&gt;</td>
-      </tr>
-      <tr>
-        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">html</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">head</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">&lt;!--</span> Configuration Start: Please customize following configuration <span class="pl-c">--&gt;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">        &lt;<span class="pl-ent">title</span>&gt;我家網&lt;/<span class="pl-ent">title</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">&lt;!--</span> Configuration End <span class="pl-c">--&gt;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">        &lt;<span class="pl-ent">meta</span> <span class="pl-e">charset</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>UTF-8<span class="pl-pds">&quot;</span></span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">        &lt;<span class="pl-ent">meta</span> <span class="pl-e">name</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>viewport<span class="pl-pds">&quot;</span></span> <span class="pl-e">content</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>width=device-width, initial-scale=1.0<span class="pl-pds">&quot;</span></span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">        &lt;<span class="pl-ent">link</span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">&#39;</span>style.css<span class="pl-pds">&#39;</span></span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">&#39;</span>stylesheet<span class="pl-pds">&#39;</span></span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">&#39;</span>text/css<span class="pl-pds">&#39;</span></span>/&gt;</td>
-      </tr>
-      <tr>
-        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">        &lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>text/javascript<span class="pl-pds">&quot;</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>cordova.js<span class="pl-pds">&quot;</span></span>&gt;<span class="pl-s1">&lt;</span>/<span class="pl-ent">script</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">    &lt;/<span class="pl-ent">head</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">body</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">        &lt;<span class="pl-ent">div</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>content<span class="pl-pds">&quot;</span></span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">            &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>content-container<span class="pl-pds">&quot;</span></span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">                &lt;<span class="pl-ent">img</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>spin.svg<span class="pl-pds">&quot;</span></span> /&gt;</td>
-      </tr>
-      <tr>
-        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">                &lt;<span class="pl-ent">div</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line">                    <span class="pl-c"><span class="pl-c">&lt;!--</span> Configuration Start: Please customize following configuration <span class="pl-c">--&gt;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line">                    &lt;<span class="pl-ent">h1</span>&gt;我家網&lt;/<span class="pl-ent">h1</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line">                    &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>description<span class="pl-pds">&quot;</span></span>&gt;&lt;<span class="pl-ent">span</span>&gt;您買屋賣屋的好夥伴&lt;/<span class="pl-ent">span</span>&gt;&lt;/<span class="pl-ent">div</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line">                    <span class="pl-c"><span class="pl-c">&lt;!--</span> Configuration End <span class="pl-c">--&gt;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line">                &lt;/<span class="pl-ent">div</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">            &lt;/<span class="pl-ent">div</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line">        &lt;/<span class="pl-ent">div</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line">        &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>footer<span class="pl-pds">&quot;</span></span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>footer<span class="pl-pds">&quot;</span></span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>container clearfix<span class="pl-pds">&quot;</span></span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">p</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">span</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>blog-copyright<span class="pl-pds">&quot;</span></span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">&lt;!--</span> Configuration Start: Please customize following configuration <span class="pl-c">--&gt;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line">    © Copyright 2018 &lt;<span class="pl-ent">a</span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>http://www.myhomes.com.tw/m/<span class="pl-pds">&quot;</span></span>&gt;我家網&lt;/<span class="pl-ent">a</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">&lt;!--</span> Configuration End <span class="pl-c">--&gt;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">span</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">p</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">div</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">div</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">        &lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>text/javascript<span class="pl-pds">&quot;</span></span>&gt;<span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                <span class="pl-c"><span class="pl-c">//</span> device APIs are available</span></span></td>
-      </tr>
-      <tr>
-        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                <span class="pl-k">function</span> <span class="pl-en">onDeviceReady</span>() {</span></td>
-      </tr>
-      <tr>
-        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                    <span class="pl-k">if</span> (<span class="pl-smi">history</span>.<span class="pl-c1">length</span> <span class="pl-k">&gt;</span> <span class="pl-c1">1</span>) {</span></td>
-      </tr>
-      <tr>
-        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                        <span class="pl-c1">navigator</span>.<span class="pl-smi">app</span>.<span class="pl-en">exitApp</span>();</span></td>
-      </tr>
-      <tr>
-        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                        <span class="pl-k">return</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                    }</span></td>
-      </tr>
-      <tr>
-        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                    </span></td>
-      </tr>
-      <tr>
-        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                    <span class="pl-c"><span class="pl-c">//</span>alert(navigator.network.connection.type);</span></span></td>
-      </tr>
-      <tr>
-        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                    <span class="pl-k">if</span> (<span class="pl-c1">navigator</span>.<span class="pl-smi">network</span>.<span class="pl-smi">connection</span>.<span class="pl-c1">type</span> <span class="pl-k">===</span> <span class="pl-smi">Connection</span>.<span class="pl-c1">NONE</span>) {</span></td>
-      </tr>
-      <tr>
-        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                        <span class="pl-c"><span class="pl-c">//</span>location.replace(&quot;offline.html&quot;);</span></span></td>
-      </tr>
-      <tr>
-        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                        <span class="pl-smi">location</span>.<span class="pl-c1">href</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>offline.html<span class="pl-pds">&quot;</span></span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                    } <span class="pl-k">else</span> {</span></td>
-      </tr>
-      <tr>
-        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                        <span class="pl-c"><span class="pl-c">//</span> &lt;!-- Configuration Start: Please customize following configuration --&gt;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                        <span class="pl-smi">location</span>.<span class="pl-c1">replace</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>http://www.myhomes.com.tw/m/<span class="pl-pds">&quot;</span></span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                        <span class="pl-c"><span class="pl-c">//</span> &lt;!-- Configuration End --&gt;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                    }</span></td>
-      </tr>
-      <tr>
-        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                }</span></td>
-      </tr>
-      <tr>
-        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">                <span class="pl-c1">document</span>.<span class="pl-c1">addEventListener</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>deviceready<span class="pl-pds">&quot;</span></span>, onDeviceReady, <span class="pl-c1">false</span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        </span><span class="pl-s1">&lt;</span>/<span class="pl-ent">script</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line">    &lt;/<span class="pl-ent">body</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">html</span>&gt;</td>
-      </tr>
-</table>
-
-  <div class="BlobToolbar position-absolute js-file-line-actions dropdown js-menu-container js-select-menu d-none" aria-hidden="true">
-    <button class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1 js-menu-target" type="button" aria-expanded="false" aria-haspopup="true" aria-label="Inline file action toolbar" aria-controls="inline-file-actions">
-      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
-    </button>
-    <div class="dropdown-menu-content js-menu-content" id="inline-file-actions">
-      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
-        <li><clipboard-copy class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
-        <li><clipboard-copy class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/sopphii8336/phonegap-web-template/blame/ca43fee9411ee060f7e558ec7e50652a5e84ecf3/www/index.html">View git blame</a></li>
-      </ul>
+  <div itemprop="text" class="blob-wrapper data type-svg">
+      
+  <div class="render-wrapper">
+    <div class="render-container is-render-pending js-render-target "
+      data-identity="2d3e5275-92b4-4fe3-b904-15985f1fc76d"
+      data-host="https://render.githubusercontent.com"
+      data-type="svg">
+      <img class="octospinner" alt="" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" />
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/sopphii8336/phonegap-web-template/blob/master/www/wifi_error.svg">Reload?</a></div>
+      <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
+      <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
+      <iframe class="render-viewer" src="https://render.githubusercontent.com/view/svg?commit=ca43fee9411ee060f7e558ec7e50652a5e84ecf3&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f7070686969383333362f70686f6e656761702d7765622d74656d706c6174652f636134336665653934313165653036306637653535386563376535303635326135653834656366332f7777772f776966695f6572726f722e737667&amp;nwo=sopphii8336%2Fphonegap-web-template&amp;path=www%2Fwifi_error.svg&amp;repository_id=137056996&amp;repository_type=Repository#2d3e5275-92b4-4fe3-b904-15985f1fc76d" sandbox="allow-scripts allow-same-origin allow-top-navigation ">Viewer requires iframe.</iframe>
     </div>
   </div>
 
@@ -968,7 +752,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.31546s from unicorn-7b67ffdfd-5bzbc">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.32809s from unicorn-546ccf9cb-lckb5">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
